@@ -1,4 +1,6 @@
-### Hi there 👋
+### Привет, меня зовут Ольга 👋
+
+- 🌱 Обучаюсь на 1 курсе магистратуры МГТУ им. Н.Э. Баумана по специальности "Программная инженерия"
 
 <!--
 **platosha-git/platosha-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
